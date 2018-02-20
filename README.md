@@ -23,6 +23,6 @@ Copy 'sql4xml.py' to 'example3' folder and:
 or
 
 2. run it by python3 interpreter with './job/data.json' command line argument, i.e.
-  >sqk4xml ./job/data.json
+  >sql4xml ./job/data.json
 
 A 'dat.txt' semicolon separated text file with data from './xml/data.xml' must be created.
