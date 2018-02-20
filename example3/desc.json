@@ -1,0 +1,20 @@
+{
+  "dat": {
+    "fields": {
+      "category": [
+        "Description",
+        "Category"
+      ],
+      "price": [
+        "Price"
+      ],
+      "quantity": [
+        "Quantity"
+      ]
+    },
+    "root": [
+      "Orders",
+      "Data"
+    ]
+  }
+}

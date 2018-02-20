@@ -1,0 +1,30 @@
+{
+  "desc": {
+    "dat": {
+      "fields": {
+        "category": [
+          "Description",
+          "Category"
+        ],
+        "price": [
+          "Price"
+        ],
+        "quantity": [
+          "Quantity"
+        ]
+      },
+      "root": [
+        "Orders",
+        "Data"
+      ]
+    }
+  },
+  "files": {
+    "dat": [
+      "./xml/data.xml"
+    ]
+  },
+  "queries": {
+    "dat.txt": "select * from dat;"
+  }
+}
