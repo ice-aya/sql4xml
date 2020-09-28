@@ -6,7 +6,7 @@ Sometime I want to create reports from structured data, that come to me in XML. 
 
 # Input
 1. XML file(s) contains a data.
-2. Job description JSON, contains description of datatables ('desc' dict), list of XML files to processing ('files' dict), and list of SQL queries ('queries' dict).
+2. Job description JSON file, contains description of datatables ('desc' dict), list of XML files to processing ('files' dict), and list of SQL queries ('queries' dict).
 
 or
 
